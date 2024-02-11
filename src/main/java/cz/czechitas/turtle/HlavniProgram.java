@@ -65,23 +65,23 @@ public class HlavniProgram {
     public void start() {
         //TODO Tady bude kód pro kreslení želví grafiky.
 
-        /*
+
         nakresliCtverecek(100, Color.blue);
         nakresliCtverecek(200, Color.red);
         nakresliCtverecek(300, Color.darkGray);
-       */
 
 
-        //nakresliObdelnik(100, 50, Color.red);
+
+        nakresliObdelnik(100, 50, Color.red);
 
 
-       // nakresliRovnostrannyTrojuhelnik(100, Color.blue);
+       nakresliRovnostrannyTrojuhelnik(100, Color.blue);
 
 
-        //nakresliObdelnik(100, 50, Color.red);
+        nakresliObdelnik(100, 50, Color.red);
 
 
-        //nakresliKolecko(80, Color.GREEN);
+        nakresliKolecko(80, Color.GREEN);
 
         nakresliRovnoRamennyTrojuhelnik(100, 100, Color.cyan);
 
